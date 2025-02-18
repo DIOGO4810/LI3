@@ -1,4 +1,4 @@
-Grade : 19 Valores
+Nota : 19 Valores
 
 # Laboratórios de Informática III (2024/2025)
 
