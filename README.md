@@ -14,11 +14,12 @@ This repository contains a project developed for the Informatics Laboratory III 
 - Valgrind
 - GDB Debugger
 
-## 📚 Core Concepts and Implementation Techniques 
+## 📚 Core Concepts and Implementation Techniques Learned
 
 - Data Structures (Hash Tables, Lists, GArrays, etc.)
 - File Handling
 - Search and Sorting Algorithms
+- Encapsulation
 
 This project was developed on Linux using the GCC compiler.
 
